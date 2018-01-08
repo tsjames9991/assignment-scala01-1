@@ -1,12 +1,20 @@
-[0m[[0m[0minfo[0m] [0m[0mscalastyle using config /home/prabhat/my-work/assignment-scala01-1/scalastyle-config.xml[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle using config /home/knoldus/Desktop/assignment-scala01-1/scalastyle-config.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mStarting scalastyle[0m
-[0m[[0m[0mdebug[0m] [0m[0mstart file /home/prabhat/my-work/assignment-scala01-1/src/main/scala/edu/knoldus/Sorting.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0mend file /home/prabhat/my-work/assignment-scala01-1/src/main/scala/edu/knoldus/Sorting.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0mstart file /home/prabhat/my-work/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala[0m
-[0m[[0m[0mdebug[0m] [0m[0mend file /home/prabhat/my-work/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/Desktop/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:6:6: Avoid using return[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:10:8: Avoid using return[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:14:6: Avoid using return[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:17:6: Avoid using return[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:27:8: Avoid using return[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:31:6: Avoid using return[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:39:10: Avoid using return[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:41:4: Avoid using return[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:38:8: If block needs braces[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/Desktop/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/Desktop/assignment-scala01-1/src/main/scala/edu/knoldus/Sorting.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/Desktop/assignment-scala01-1/src/main/scala/edu/knoldus/Sorting.scala[0m
 [0m[[0m[0minfo[0m] [0m[0mscalastyle Processed 2 file(s)[0m
 [0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 errors[0m
-[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 warnings[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 9 warnings[0m
 [0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 infos[0m
 [0m[[0m[0minfo[0m] [0m[0mscalastyle Finished in 6 ms[0m
-[0m[[0m[32msuccess[0m] [0m[0mcreated output: /home/prabhat/my-work/assignment-scala01-1/target[0m

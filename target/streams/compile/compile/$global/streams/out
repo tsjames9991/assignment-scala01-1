@@ -1,0 +1,16 @@
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Desktop/assignment-scala01-1/Search.scala:1:3: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m  def LinearSearch (Elements : Array[Int], Key : Int ) : String = {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Desktop/assignment-scala01-1/Search.scala:8:3: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m  def BinarySearch (Elements : Array[Int], Left : Int, Right : Int, Key : Int ) : Int = {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Desktop/assignment-scala01-1/Sorting.scala:1:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef SelectionSort(Elements: Array[Int]): Array[Int] = {[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Desktop/assignment-scala01-1/Sorting.scala:15:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef BubbleSort(Elements: Array[Int]): Array[Int] = {[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Desktop/assignment-scala01-1/Sorting.scala:29:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef InsertionSort(Elements: Array[Int]): Array[Int] = {[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m
